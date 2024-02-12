@@ -17,7 +17,6 @@ public class OnJoin implements Listener {
         UUID playerId = e.getPlayer().getUniqueId();
 
         if (!profiles.containsKey(playerId)) {
-            System.out.println("Fired");
             profiles.put(playerId, new StatsProfile());
         }
     }
