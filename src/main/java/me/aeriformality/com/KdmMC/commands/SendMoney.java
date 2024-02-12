@@ -1,9 +1,9 @@
-package me.aeriformity.com.KdmMC.commands;
+package me.aeriformality.com.KdmMC.commands;
 
 import co.aikar.commands.BaseCommand;
 import co.aikar.commands.annotation.*;
-import me.aeriformity.com.KdmMC.KdmMC;
-import me.aeriformity.com.KdmMC.profiles.StatsProfile;
+import me.aeriformality.com.KdmMC.KdmMC;
+import me.aeriformality.com.KdmMC.profiles.StatsProfile;
 import org.bukkit.entity.Player;
 
 import java.util.Map;

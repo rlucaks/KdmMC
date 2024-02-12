@@ -1,7 +1,7 @@
-package me.aeriformity.com.KdmMC.events;
+package me.aeriformality.com.KdmMC.events;
 
-import me.aeriformity.com.KdmMC.KdmMC;
-import me.aeriformity.com.KdmMC.profiles.StatsProfile;
+import me.aeriformality.com.KdmMC.KdmMC;
+import me.aeriformality.com.KdmMC.profiles.StatsProfile;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;

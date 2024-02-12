@@ -1,4 +1,4 @@
-package me.aeriformity.com.KdmMC.profiles;
+package me.aeriformality.com.KdmMC.profiles;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

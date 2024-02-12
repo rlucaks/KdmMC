@@ -1,5 +1,5 @@
 name: KdmMC
 version: '${project.version}'
-main: me.aeriformity.com.KdmMC.KdmMC
+main: me.aeriformality.com.KdmMC.KdmMC
 api-version: '1.20'
-author: Aeriformity
+author: Aeriformality

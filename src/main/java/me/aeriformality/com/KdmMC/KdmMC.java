@@ -1,12 +1,12 @@
-package me.aeriformity.com.KdmMC;
+package me.aeriformality.com.KdmMC;
 
 import co.aikar.commands.PaperCommandManager;
 import lombok.Getter;
-import me.aeriformity.com.KdmMC.commands.SendMoney;
-import me.aeriformity.com.KdmMC.commands.Stats;
-import me.aeriformity.com.KdmMC.events.OnDeath;
-import me.aeriformity.com.KdmMC.events.OnJoin;
-import me.aeriformity.com.KdmMC.profiles.StatsProfile;
+import me.aeriformality.com.KdmMC.commands.SendMoney;
+import me.aeriformality.com.KdmMC.commands.Stats;
+import me.aeriformality.com.KdmMC.events.OnDeath;
+import me.aeriformality.com.KdmMC.events.OnJoin;
+import me.aeriformality.com.KdmMC.profiles.StatsProfile;
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
