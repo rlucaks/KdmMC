@@ -2,3 +2,4 @@ name: KdmMC
 version: '${project.version}'
 main: me.aeriformity.com.KdmMC.KdmMC
 api-version: '1.20'
+author: Aeriformity
